@@ -1,0 +1,20 @@
+#results {
+    display:none;
+  }
+
+.container{
+  color: lightblue;
+}
+
+
+.input-group-addon{
+  background-color: red;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  border-color: darkmagenta;
+}
+.container,html,.bg{
+  background-color:lightblue;
+  
+}
+
